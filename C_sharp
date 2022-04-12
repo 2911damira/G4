@@ -9,7 +9,7 @@ namespace Azienda
     {
         DIRETTORE,CONTABILE,RISORSE_UMANE
     }
-
+//ciaone
     class Amministrativo:Dipendente
     {
         public Mansione Mansione { get; set; }
