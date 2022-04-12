@@ -9,7 +9,7 @@ namespace Azienda
     {
         DIRETTORE,CONTABILE,RISORSE_UMANE
     }
-//Gino Fastidio alla riscossa
+//ciaone
     class Amministrativo:Dipendente
     {
         public Mansione Mansione { get; set; }
@@ -34,4 +34,3 @@ namespace Azienda
 
 	//umberto    
 }
-// Damira 2911
